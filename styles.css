@@ -1,0 +1,18 @@
+canvas{
+    text-align: center;
+    border: 20px solid black
+}
+
+body{
+    text-align: center;
+    
+}
+html{
+    background-image: url(image/back.png)
+}
+.bird{
+    display: none
+}
+.back{
+    display: none
+}
